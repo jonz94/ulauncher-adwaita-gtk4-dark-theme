@@ -85,3 +85,11 @@
 .no-window-shadow {
     margin: -20px;
 }
+
+/*
+ * Add spacing
+ * credit: https://github.com/Raayib/WhiteSur-Dark-ulauncher/blob/480ea5ae803c72497a2e6d6e75926d0eeeb2ec88/theme.css#L89-L91
+ */
+.result-box {
+    margin: 0px 6px -4px 6px;
+}

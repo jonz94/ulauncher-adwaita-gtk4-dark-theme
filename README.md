@@ -1,14 +1,11 @@
-## Previews
-### Dark
-![alt text](https://github.com/lighttigerXIV/ulauncher-adwaita-gtk4/blob/main/assets/preview-dark.png)  
+# Adwaita GTK4 Dark Theme for Ulauncher
 
-
-### Light
-![alt text](https://github.com/lighttigerXIV/ulauncher-adwaita-gtk4/blob/main/assets/preview-light.png)  
+This theme is originally from [lighttigerXIV's Adwaita Gtk4 Themes](https://github.com/lighttigerXIV/ulauncher-adwaita-gtk4)
 
 ## Installation
 
-    git clone https://github.com/lighttigerXIV/ulauncher-adwaita-gtk4/
-    cd ulauncher-adwaita-gtk4 
-    mkdir -p ~/.config/ulauncher/user-themes/
-    cp -r src/* ~/.config/ulauncher/user-themes/
+```
+mkdir -p ~/.config/ulauncher/user-themes/
+cd ~/.config/ulauncher/user-themes/
+git clone https://github.com/jonz94/ulauncher-adwaita-gtk4-dark-theme/
+```
